@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://egiverout.github.io/sitemap.html.gz
+Sitemap: https://egiverout.github.io/app/sitemap.html.gz
+Sitemap: https://egiverout.github.io/assets/sitemap.html.gz
+Sitemap: https://egiverout.github.io/css/sitemap.html.gz
+Sitemap: https://egiverout.github.io/includes/sitemap.html.gz
+Sitemap: https://egiverout.github.io/item/sitemap.html.gz
+Sitemap: https://egiverout.github.io/src/sitemap.html.gz
